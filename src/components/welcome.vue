@@ -1,7 +1,7 @@
 <template>
   <div id="welcome">
     <h1 contenteditable="true">nrich @ ai speed</h1>
-    <p>realtime universal best practices engine</p>
+    <p>realtime universal social network engine</p>
     <!-- <p>evolutionary learning & fair monetary engine</p> -->
     <div class="cta">
       <router-link to="/signup">Sign Up</router-link>
